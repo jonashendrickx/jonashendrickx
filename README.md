@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 
 ![Jonas' github stats](https://github-readme-stats.vercel.app/api?username=jonashendrickx&count_private=true)
 
-![Jonas' github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jonashendrickx&langs_count=20&layout=compact)
+![Jonas' github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jonashendrickx&langs_count=20&layout=compact&count_private=true)
 

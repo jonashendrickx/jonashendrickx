@@ -1,19 +1,5 @@
 # Jonas Hendrickx
 
-## Statistics
-
-<div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=jonashendrickx&show_icons=true&theme=swift" alt="GitHub Stats" />
-</div>
-
-<div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonashendrickx&langs_count=20&theme=swift" alt="Languages" />
-</div>
-
-<div align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jonashendrickx&theme=swift" alt="Contributions" />
-</div>
-
 ## Sponsor Me
 <div align="center">
     <a href="https://github.com/sponsors/jonashendrickx">
